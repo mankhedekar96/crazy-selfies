@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dff7dd113be58cc1fbf5f3df99639cac",
+    "revision": "9a0198ccd59a8d8902ec33d1cdef3435",
     "url": "/crazy-selfies/index.html"
   },
   {
-    "revision": "a858fd3f2facd9375e4d",
-    "url": "/crazy-selfies/static/css/main.ae665ba8.chunk.css"
+    "revision": "6f9948f72201b32c8b91",
+    "url": "/crazy-selfies/static/css/main.b7f6234b.chunk.css"
   },
   {
-    "revision": "6748f2d0eabb5b77fd37",
-    "url": "/crazy-selfies/static/js/2.f3b2c4b4.chunk.js"
+    "revision": "b69b7d836b08616b3b60",
+    "url": "/crazy-selfies/static/js/2.0f66f717.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/crazy-selfies/static/js/2.f3b2c4b4.chunk.js.LICENSE.txt"
+    "url": "/crazy-selfies/static/js/2.0f66f717.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a858fd3f2facd9375e4d",
-    "url": "/crazy-selfies/static/js/main.8ef179eb.chunk.js"
+    "revision": "6f9948f72201b32c8b91",
+    "url": "/crazy-selfies/static/js/main.266173e0.chunk.js"
   },
   {
     "revision": "630abe41e08ed04e379e",
     "url": "/crazy-selfies/static/js/runtime-main.a49f9c08.js"
+  },
+  {
+    "revision": "1634235784ded0245bd5539f78b13aa1",
+    "url": "/crazy-selfies/static/media/back-arrow.16342357.png"
   },
   {
     "revision": "b0f2a497a38adf2d716746e397d260d1",
@@ -30,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b7952dc0a89b478ed1d8332f0e657979",
     "url": "/crazy-selfies/static/media/square.b7952dc0.svg"
+  },
+  {
+    "revision": "9c45a307a6356d462e3234218357b2a5",
+    "url": "/crazy-selfies/static/media/switch-camera.9c45a307.png"
   },
   {
     "revision": "01387784593397d40d125401dc655045",
