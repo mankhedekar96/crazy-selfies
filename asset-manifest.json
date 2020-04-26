@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/crazy-selfies/static/css/main.bfab02be.chunk.css",
-    "main.js": "/crazy-selfies/static/js/main.c7715675.chunk.js",
-    "main.js.map": "/crazy-selfies/static/js/main.c7715675.chunk.js.map",
+    "main.css": "/crazy-selfies/static/css/main.b073adca.chunk.css",
+    "main.js": "/crazy-selfies/static/js/main.6f406baf.chunk.js",
+    "main.js.map": "/crazy-selfies/static/js/main.6f406baf.chunk.js.map",
     "runtime-main.js": "/crazy-selfies/static/js/runtime-main.a49f9c08.js",
     "runtime-main.js.map": "/crazy-selfies/static/js/runtime-main.a49f9c08.js.map",
     "static/js/2.f3b2c4b4.chunk.js": "/crazy-selfies/static/js/2.f3b2c4b4.chunk.js",
     "static/js/2.f3b2c4b4.chunk.js.map": "/crazy-selfies/static/js/2.f3b2c4b4.chunk.js.map",
     "index.html": "/crazy-selfies/index.html",
-    "precache-manifest.c5a78138db473bed5b3a6cf3f2730e9c.js": "/crazy-selfies/precache-manifest.c5a78138db473bed5b3a6cf3f2730e9c.js",
+    "precache-manifest.c30b76dc188a2cbf29179ef6dfc61262.js": "/crazy-selfies/precache-manifest.c30b76dc188a2cbf29179ef6dfc61262.js",
     "service-worker.js": "/crazy-selfies/service-worker.js",
-    "static/css/main.bfab02be.chunk.css.map": "/crazy-selfies/static/css/main.bfab02be.chunk.css.map",
+    "static/css/main.b073adca.chunk.css.map": "/crazy-selfies/static/css/main.b073adca.chunk.css.map",
     "static/js/2.f3b2c4b4.chunk.js.LICENSE.txt": "/crazy-selfies/static/js/2.f3b2c4b4.chunk.js.LICENSE.txt",
     "static/media/circle.svg": "/crazy-selfies/static/media/circle.b0f2a497.svg",
     "static/media/square.svg": "/crazy-selfies/static/media/square.b7952dc0.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.a49f9c08.js",
     "static/js/2.f3b2c4b4.chunk.js",
-    "static/css/main.bfab02be.chunk.css",
-    "static/js/main.c7715675.chunk.js"
+    "static/css/main.b073adca.chunk.css",
+    "static/js/main.6f406baf.chunk.js"
   ]
 }
