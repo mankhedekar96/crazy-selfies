@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/crazy-selfies/static/css/main.d1b05096.chunk.css",
-    "main.js": "/crazy-selfies/static/js/main.1b169318.chunk.js",
-    "main.js.map": "/crazy-selfies/static/js/main.1b169318.chunk.js.map",
+    "main.css": "/crazy-selfies/static/css/main.b906e129.chunk.css",
+    "main.js": "/crazy-selfies/static/js/main.b51f8663.chunk.js",
+    "main.js.map": "/crazy-selfies/static/js/main.b51f8663.chunk.js.map",
     "runtime-main.js": "/crazy-selfies/static/js/runtime-main.a49f9c08.js",
     "runtime-main.js.map": "/crazy-selfies/static/js/runtime-main.a49f9c08.js.map",
-    "static/js/2.028ec7a5.chunk.js": "/crazy-selfies/static/js/2.028ec7a5.chunk.js",
-    "static/js/2.028ec7a5.chunk.js.map": "/crazy-selfies/static/js/2.028ec7a5.chunk.js.map",
+    "static/js/2.f3b2c4b4.chunk.js": "/crazy-selfies/static/js/2.f3b2c4b4.chunk.js",
+    "static/js/2.f3b2c4b4.chunk.js.map": "/crazy-selfies/static/js/2.f3b2c4b4.chunk.js.map",
     "index.html": "/crazy-selfies/index.html",
-    "precache-manifest.8b0aad54371407b1f7d4ed7818a3e86a.js": "/crazy-selfies/precache-manifest.8b0aad54371407b1f7d4ed7818a3e86a.js",
+    "precache-manifest.f5e731507be199a3856345e262ea657d.js": "/crazy-selfies/precache-manifest.f5e731507be199a3856345e262ea657d.js",
     "service-worker.js": "/crazy-selfies/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/crazy-selfies/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.028ec7a5.chunk.js.LICENSE.txt": "/crazy-selfies/static/js/2.028ec7a5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/crazy-selfies/static/media/logo.5d5d9eef.svg"
+    "static/css/main.b906e129.chunk.css.map": "/crazy-selfies/static/css/main.b906e129.chunk.css.map",
+    "static/js/2.f3b2c4b4.chunk.js.LICENSE.txt": "/crazy-selfies/static/js/2.f3b2c4b4.chunk.js.LICENSE.txt",
+    "static/media/circle.svg": "/crazy-selfies/static/media/circle.b0f2a497.svg",
+    "static/media/square.svg": "/crazy-selfies/static/media/square.b7952dc0.svg",
+    "static/media/triangle.svg": "/crazy-selfies/static/media/triangle.01387784.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a49f9c08.js",
-    "static/js/2.028ec7a5.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.1b169318.chunk.js"
+    "static/js/2.f3b2c4b4.chunk.js",
+    "static/css/main.b906e129.chunk.css",
+    "static/js/main.b51f8663.chunk.js"
   ]
 }
