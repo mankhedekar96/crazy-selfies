@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "827dec1277b6de1a9fc2336487de4085",
+    "revision": "7eaf04ec1ad3448f337b6db70bfe540f",
     "url": "/crazy-selfies/index.html"
   },
   {
-    "revision": "e9a6368e73e2722eb478",
+    "revision": "560435abd7f5b0bdff3c",
     "url": "/crazy-selfies/static/css/main.778ef8b3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crazy-selfies/static/js/2.74202287.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9a6368e73e2722eb478",
-    "url": "/crazy-selfies/static/js/main.3ae84a5a.chunk.js"
+    "revision": "560435abd7f5b0bdff3c",
+    "url": "/crazy-selfies/static/js/main.11a33e0d.chunk.js"
   },
   {
     "revision": "630abe41e08ed04e379e",
