@@ -1,29 +1,28 @@
 {
   "files": {
     "main.css": "/crazy-selfies/static/css/main.3dcbbe27.chunk.css",
-    "main.js": "/crazy-selfies/static/js/main.9483a696.chunk.js",
-    "main.js.map": "/crazy-selfies/static/js/main.9483a696.chunk.js.map",
+    "main.js": "/crazy-selfies/static/js/main.3ae84a5a.chunk.js",
+    "main.js.map": "/crazy-selfies/static/js/main.3ae84a5a.chunk.js.map",
     "runtime-main.js": "/crazy-selfies/static/js/runtime-main.a49f9c08.js",
     "runtime-main.js.map": "/crazy-selfies/static/js/runtime-main.a49f9c08.js.map",
-    "static/js/2.d0428a74.chunk.js": "/crazy-selfies/static/js/2.d0428a74.chunk.js",
-    "static/js/2.d0428a74.chunk.js.map": "/crazy-selfies/static/js/2.d0428a74.chunk.js.map",
+    "static/js/2.74202287.chunk.js": "/crazy-selfies/static/js/2.74202287.chunk.js",
+    "static/js/2.74202287.chunk.js.map": "/crazy-selfies/static/js/2.74202287.chunk.js.map",
     "index.html": "/crazy-selfies/index.html",
-    "precache-manifest.9b82a249d0b30bf5883580312793971b.js": "/crazy-selfies/precache-manifest.9b82a249d0b30bf5883580312793971b.js",
+    "precache-manifest.95d596220f8470bbf6e87bfb4265db63.js": "/crazy-selfies/precache-manifest.95d596220f8470bbf6e87bfb4265db63.js",
     "service-worker.js": "/crazy-selfies/service-worker.js",
     "static/css/main.3dcbbe27.chunk.css.map": "/crazy-selfies/static/css/main.3dcbbe27.chunk.css.map",
-    "static/js/2.d0428a74.chunk.js.LICENSE.txt": "/crazy-selfies/static/js/2.d0428a74.chunk.js.LICENSE.txt",
+    "static/js/2.74202287.chunk.js.LICENSE.txt": "/crazy-selfies/static/js/2.74202287.chunk.js.LICENSE.txt",
     "static/media/back-arrow.png": "/crazy-selfies/static/media/back-arrow.16342357.png",
     "static/media/circle.svg": "/crazy-selfies/static/media/circle.b0f2a497.svg",
     "static/media/iron-man.png": "/crazy-selfies/static/media/iron-man.0b7428c5.png",
-    "static/media/milkha-singh.png": "/crazy-selfies/static/media/milkha-singh.827b96c2.png",
     "static/media/square.svg": "/crazy-selfies/static/media/square.b7952dc0.svg",
     "static/media/switch-camera.png": "/crazy-selfies/static/media/switch-camera.9c45a307.png",
     "static/media/triangle.svg": "/crazy-selfies/static/media/triangle.01387784.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a49f9c08.js",
-    "static/js/2.d0428a74.chunk.js",
+    "static/js/2.74202287.chunk.js",
     "static/css/main.3dcbbe27.chunk.css",
-    "static/js/main.9483a696.chunk.js"
+    "static/js/main.3ae84a5a.chunk.js"
   ]
 }
