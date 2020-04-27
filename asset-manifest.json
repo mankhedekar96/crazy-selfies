@@ -1,30 +1,32 @@
 {
   "files": {
     "main.css": "/crazy-selfies/static/css/main.5720c2b7.chunk.css",
-    "main.js": "/crazy-selfies/static/js/main.e6827186.chunk.js",
-    "main.js.map": "/crazy-selfies/static/js/main.e6827186.chunk.js.map",
+    "main.js": "/crazy-selfies/static/js/main.aa95f7d3.chunk.js",
+    "main.js.map": "/crazy-selfies/static/js/main.aa95f7d3.chunk.js.map",
     "runtime-main.js": "/crazy-selfies/static/js/runtime-main.a49f9c08.js",
     "runtime-main.js.map": "/crazy-selfies/static/js/runtime-main.a49f9c08.js.map",
-    "static/js/2.8d1e92c9.chunk.js": "/crazy-selfies/static/js/2.8d1e92c9.chunk.js",
-    "static/js/2.8d1e92c9.chunk.js.map": "/crazy-selfies/static/js/2.8d1e92c9.chunk.js.map",
+    "static/js/2.ea084997.chunk.js": "/crazy-selfies/static/js/2.ea084997.chunk.js",
+    "static/js/2.ea084997.chunk.js.map": "/crazy-selfies/static/js/2.ea084997.chunk.js.map",
     "index.html": "/crazy-selfies/index.html",
-    "precache-manifest.8d9a91376cf7b76c1af4ce9784c828e2.js": "/crazy-selfies/precache-manifest.8d9a91376cf7b76c1af4ce9784c828e2.js",
+    "precache-manifest.a209cd2d313f4f3634f79d3cb2a23152.js": "/crazy-selfies/precache-manifest.a209cd2d313f4f3634f79d3cb2a23152.js",
     "service-worker.js": "/crazy-selfies/service-worker.js",
     "static/css/main.5720c2b7.chunk.css.map": "/crazy-selfies/static/css/main.5720c2b7.chunk.css.map",
-    "static/js/2.8d1e92c9.chunk.js.LICENSE.txt": "/crazy-selfies/static/js/2.8d1e92c9.chunk.js.LICENSE.txt",
+    "static/js/2.ea084997.chunk.js.LICENSE.txt": "/crazy-selfies/static/js/2.ea084997.chunk.js.LICENSE.txt",
     "static/media/back-arrow.png": "/crazy-selfies/static/media/back-arrow.16342357.png",
     "static/media/bhaag-milkha.png": "/crazy-selfies/static/media/bhaag-milkha.827b96c2.png",
     "static/media/camera-shutter.mp3": "/crazy-selfies/static/media/camera-shutter.d5fb3f65.mp3",
     "static/media/circle.svg": "/crazy-selfies/static/media/circle.b0f2a497.svg",
-    "static/media/iron-man.png": "/crazy-selfies/static/media/iron-man.6c091d9c.png",
+    "static/media/iron-man-black-bg.png": "/crazy-selfies/static/media/iron-man-black-bg.04570b6a.png",
+    "static/media/iron-man-no-bg.png": "/crazy-selfies/static/media/iron-man-no-bg.cf7cfa25.png",
+    "static/media/iron-man-white-bg.png": "/crazy-selfies/static/media/iron-man-white-bg.ab156cca.png",
     "static/media/square.svg": "/crazy-selfies/static/media/square.b7952dc0.svg",
     "static/media/switch-camera.png": "/crazy-selfies/static/media/switch-camera.9c45a307.png",
     "static/media/triangle.svg": "/crazy-selfies/static/media/triangle.01387784.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a49f9c08.js",
-    "static/js/2.8d1e92c9.chunk.js",
+    "static/js/2.ea084997.chunk.js",
     "static/css/main.5720c2b7.chunk.css",
-    "static/js/main.e6827186.chunk.js"
+    "static/js/main.aa95f7d3.chunk.js"
   ]
 }
