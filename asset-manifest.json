@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/crazy-selfies/static/css/main.778ef8b3.chunk.css",
-    "main.js": "/crazy-selfies/static/js/main.907d48f5.chunk.js",
-    "main.js.map": "/crazy-selfies/static/js/main.907d48f5.chunk.js.map",
+    "main.css": "/crazy-selfies/static/css/main.5720c2b7.chunk.css",
+    "main.js": "/crazy-selfies/static/js/main.e6827186.chunk.js",
+    "main.js.map": "/crazy-selfies/static/js/main.e6827186.chunk.js.map",
     "runtime-main.js": "/crazy-selfies/static/js/runtime-main.a49f9c08.js",
     "runtime-main.js.map": "/crazy-selfies/static/js/runtime-main.a49f9c08.js.map",
-    "static/js/2.824e0d7f.chunk.js": "/crazy-selfies/static/js/2.824e0d7f.chunk.js",
-    "static/js/2.824e0d7f.chunk.js.map": "/crazy-selfies/static/js/2.824e0d7f.chunk.js.map",
+    "static/js/2.8d1e92c9.chunk.js": "/crazy-selfies/static/js/2.8d1e92c9.chunk.js",
+    "static/js/2.8d1e92c9.chunk.js.map": "/crazy-selfies/static/js/2.8d1e92c9.chunk.js.map",
     "index.html": "/crazy-selfies/index.html",
-    "precache-manifest.fd39a1757b6d2f47f292769105f58d79.js": "/crazy-selfies/precache-manifest.fd39a1757b6d2f47f292769105f58d79.js",
+    "precache-manifest.8d9a91376cf7b76c1af4ce9784c828e2.js": "/crazy-selfies/precache-manifest.8d9a91376cf7b76c1af4ce9784c828e2.js",
     "service-worker.js": "/crazy-selfies/service-worker.js",
-    "static/css/main.778ef8b3.chunk.css.map": "/crazy-selfies/static/css/main.778ef8b3.chunk.css.map",
-    "static/js/2.824e0d7f.chunk.js.LICENSE.txt": "/crazy-selfies/static/js/2.824e0d7f.chunk.js.LICENSE.txt",
+    "static/css/main.5720c2b7.chunk.css.map": "/crazy-selfies/static/css/main.5720c2b7.chunk.css.map",
+    "static/js/2.8d1e92c9.chunk.js.LICENSE.txt": "/crazy-selfies/static/js/2.8d1e92c9.chunk.js.LICENSE.txt",
     "static/media/back-arrow.png": "/crazy-selfies/static/media/back-arrow.16342357.png",
+    "static/media/bhaag-milkha.png": "/crazy-selfies/static/media/bhaag-milkha.827b96c2.png",
     "static/media/camera-shutter.mp3": "/crazy-selfies/static/media/camera-shutter.d5fb3f65.mp3",
     "static/media/circle.svg": "/crazy-selfies/static/media/circle.b0f2a497.svg",
     "static/media/iron-man.png": "/crazy-selfies/static/media/iron-man.6c091d9c.png",
@@ -22,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a49f9c08.js",
-    "static/js/2.824e0d7f.chunk.js",
-    "static/css/main.778ef8b3.chunk.css",
-    "static/js/main.907d48f5.chunk.js"
+    "static/js/2.8d1e92c9.chunk.js",
+    "static/css/main.5720c2b7.chunk.css",
+    "static/js/main.e6827186.chunk.js"
   ]
 }

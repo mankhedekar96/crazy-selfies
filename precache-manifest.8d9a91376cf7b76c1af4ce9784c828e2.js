@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b998945b953ba938e68a3311b320c160",
+    "revision": "739ce9a8460144857ceef10dd369de1f",
     "url": "/crazy-selfies/index.html"
   },
   {
-    "revision": "35dc9f89c5668d920187",
-    "url": "/crazy-selfies/static/css/main.778ef8b3.chunk.css"
+    "revision": "0fb6e3f190dc31ece43b",
+    "url": "/crazy-selfies/static/css/main.5720c2b7.chunk.css"
   },
   {
-    "revision": "dfbe97c4493cafc906b4",
-    "url": "/crazy-selfies/static/js/2.824e0d7f.chunk.js"
+    "revision": "e2a56a54f0fe1cde0f39",
+    "url": "/crazy-selfies/static/js/2.8d1e92c9.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/crazy-selfies/static/js/2.824e0d7f.chunk.js.LICENSE.txt"
+    "url": "/crazy-selfies/static/js/2.8d1e92c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35dc9f89c5668d920187",
-    "url": "/crazy-selfies/static/js/main.907d48f5.chunk.js"
+    "revision": "0fb6e3f190dc31ece43b",
+    "url": "/crazy-selfies/static/js/main.e6827186.chunk.js"
   },
   {
     "revision": "630abe41e08ed04e379e",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1634235784ded0245bd5539f78b13aa1",
     "url": "/crazy-selfies/static/media/back-arrow.16342357.png"
+  },
+  {
+    "revision": "827b96c234a6fe2fccc32985d751142b",
+    "url": "/crazy-selfies/static/media/bhaag-milkha.827b96c2.png"
   },
   {
     "revision": "d5fb3f65dc1f611fc2f9aed9d1b76a6d",
