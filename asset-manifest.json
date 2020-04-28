@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crazy-selfies/static/css/main.9c090b01.chunk.css",
-    "main.js": "/crazy-selfies/static/js/main.710c3e09.chunk.js",
-    "main.js.map": "/crazy-selfies/static/js/main.710c3e09.chunk.js.map",
+    "main.js": "/crazy-selfies/static/js/main.6745d605.chunk.js",
+    "main.js.map": "/crazy-selfies/static/js/main.6745d605.chunk.js.map",
     "runtime-main.js": "/crazy-selfies/static/js/runtime-main.a49f9c08.js",
     "runtime-main.js.map": "/crazy-selfies/static/js/runtime-main.a49f9c08.js.map",
     "static/js/2.ea084997.chunk.js": "/crazy-selfies/static/js/2.ea084997.chunk.js",
     "static/js/2.ea084997.chunk.js.map": "/crazy-selfies/static/js/2.ea084997.chunk.js.map",
     "index.html": "/crazy-selfies/index.html",
-    "precache-manifest.39b34a3bb345831d1250e031bf7617c6.js": "/crazy-selfies/precache-manifest.39b34a3bb345831d1250e031bf7617c6.js",
+    "precache-manifest.98684db4b6168cb52b5b716b3135aa8f.js": "/crazy-selfies/precache-manifest.98684db4b6168cb52b5b716b3135aa8f.js",
     "service-worker.js": "/crazy-selfies/service-worker.js",
     "static/css/main.9c090b01.chunk.css.map": "/crazy-selfies/static/css/main.9c090b01.chunk.css.map",
     "static/js/2.ea084997.chunk.js.LICENSE.txt": "/crazy-selfies/static/js/2.ea084997.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.a49f9c08.js",
     "static/js/2.ea084997.chunk.js",
     "static/css/main.9c090b01.chunk.css",
-    "static/js/main.710c3e09.chunk.js"
+    "static/js/main.6745d605.chunk.js"
   ]
 }
